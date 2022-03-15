@@ -1,0 +1,1 @@
+Este projeto consiste em um editor de texto.
